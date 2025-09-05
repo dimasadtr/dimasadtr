@@ -14,6 +14,14 @@
 
 ###
 
+# 💻 Tugas Mata Kuliah Mobile Programing:
+
+| No | Minggu ke | Praktikum ke | Topik                                               | Modul                                     | Laporan Praktikum                         |
+|----|-----------|-------------|-----------------------------------------------------|-------------------------------------------|-------------------------------------------|
+| 1  | 01        | -           | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 01](#)                             | [Template laporan](#)                     |
+| 2  | 01        | -           | Widget Row dan Column                               | [Modul 02](#)                             | [Template laporan](#)                     |
+#
+
 <h3 align="left">Languages and Tools :</h3>
 
 ###
@@ -25,7 +33,7 @@
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
   <img width="9" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
   <img width="9" />
@@ -42,7 +50,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasadtr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="100" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=dimasadtr&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="100" alt="streak graph"  />
 </div>
 
 ###
