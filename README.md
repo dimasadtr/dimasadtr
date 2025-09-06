@@ -1,30 +1,30 @@
 <h2 align="left">Hi 👋, I'm Dimas Aditya !!</h2>
 
-###
-
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=pink&labelColor=black&style=flat" height="20" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=black&logoColor=blue&labelColor=black&style=flat" height="20" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=black&logoColor=red&labelColor=hex&style=flat" height="20" alt="gmail logo"  />
+  <a href="https://instagram.com/_dimasadtr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=pink&labelColor=black&style=flat" height="20" alt="instagram logo" />
+  </a>
+  <a href="https://discord.com/users/7skyline_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=black&logoColor=blue&labelColor=black&style=flat" height="20" alt="discord logo" />
+  </a>
+  <a href="mailto:dimasaditya1711@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=black&logoColor=red&labelColor=black&style=flat" height="20" alt="gmail logo" />
+  </a>
 </div>
 
-###
-
-<p align="left">I’m an Informatics Engineering student at UIN Maulana Malik Ibrahim Malang with a deep interest in both programming and visual design. My current focus is on frontend developmen,where I enjoy building intuitive and user-friendly interfaces.<br><br>Beyond coding, I’m passionate about graphic design, with experience in creating logos, clothing designs, and various visual concepts. I like bringing ideas to life through strong visuals while also exploring ways to combine design and technology in my projects.<br><br> I’m always eager to grow, experiment, and push my skills further in both tech and creative fields.</p>
+<p align="left">I’m an Informatics Engineering student at UIN Maulana Malik Ibrahim Malang with a deep interest in both programming and visual design. My current focus is on frontend developmen,where I enjoy building intuitive and user-friendly interfaces.<br>Beyond coding, I’m passionate about graphic design, with experience in creating logos, clothing designs, and various visual concepts. I like bringing ideas to life through strong visuals while also exploring ways to combine design and technology in my projects.<br><br> I’m always eager to grow, experiment, and push my skills further in both tech and creative fields.</p>
 
 ###
 
 # 💻 Tugas Mata Kuliah Mobile Programing:
 
-| No | Minggu ke | Praktikum ke | Topik                                               | Modul                                     | Laporan Praktikum                         |
+| No | Tanggal | Praktikum ke | Topik                                               | Repositori                                     | Laporan Praktikum                         |
 |----|-----------|-------------|-----------------------------------------------------|-------------------------------------------|-------------------------------------------|
-| 1  | 01        | -           | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 01](#)                             | [Template laporan](#)                     |
-| 2  | 01        | -           | Widget Row dan Column                               | [Modul 02](#)                             | [Template laporan](#)                     |
+| 1  | 03-09-2025        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan  | [Tugas 1](#)                             | [laporan 01](#)                     |
+| 2  | 03-09-2025        | 01           | Widget Row dan Column                               | [Tugas 02](#)                             | [ laporan 02](#)                     |
 #
 
-<h3 align="left">Languages and Tools :</h3>
-
-###
+# <h2 align="left">Languages and Tools :</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="30" alt="inkscape logo"  />
