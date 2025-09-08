@@ -20,7 +20,7 @@
 
 | No | Tanggal | Praktikum ke | Topik                                               | Repositori                                     | Laporan Praktikum                         |
 |----|-----------|-------------|-----------------------------------------------------|-------------------------------------------|-------------------------------------------|
-| 1  | 03-09-2025        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan  | [Tugas 1](#)                             | [laporan 01](#)                     |
+| 1  | 03-09-2025        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan  | [Tugas 1](#)                             | [laporan 01](i:\My Drive\Praktikum Mobile_Sem5\Laporan Praktikum pemograman Mobile_Modul 1.pdf)                     |
 | 2  | 03-09-2025        | 01           | Widget Row dan Column                               | [Tugas 02](#)                             | [ laporan 02](#)                     |
 #
 
