@@ -17,6 +17,9 @@
 ###
 
 # 💻 Tugas Mata Kuliah Mobile Programing:
+Nama : Dimas Aditya Ramadhan
+Nim : 230605110101
+
 
 | No | Tanggal | Praktikum ke | Topik                                               | Repositori                                     | Laporan Praktikum                         |
 |----|-----------|-------------|-----------------------------------------------------|-------------------------------------------|-------------------------------------------|
