@@ -18,15 +18,27 @@
 
 # 💻 Tugas Mata Kuliah Mobile Programing:
 <h2>
-  Nama : Dimas Aditya Ramadhan<br>
-Nim : 230605110101
+Nama: Dimas Aditya Ramadhan<br>
+Nim: 230605110101
+Kelas: A
 </h2>
 
 
-| No | Tanggal | Praktikum ke | Topik                                               | Repositori                                     | Laporan Praktikum                         |
-|----|-----------|-------------|-----------------------------------------------------|-------------------------------------------|-------------------------------------------|
-| 1  | 03-09-2025        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan  | [Tugas 1](#)                             | [laporan 01](https://drive.google.com/file/d/1TLY4sM7hO9rH5khGs4STi6g32TNsNAUc/view?usp=drive_link)                     |
-| 2  | 03-09-2025        | 01           | Widget Row dan Column                               | [Tugas 02](#)                             | [ laporan 02](#)                     |
+# Daftar Modul Praktikum
+| No | Praktikum ke | Topik Modul | Repository | Laporan |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | 1 | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 1](#) | [Modul 1](#) |
+| 2 | 1 | Widget Row dan Column | [Modul 2](#) | [Modul 2](#) |
+| 3 | 2 | Pengaturan Layout Row dan Column di Flutter | [Modul 3](#) | [Modul 3](#) |
+| 4 | 2 | Widget Flexible dan Expanded | [Modul 4](#) | [Modul 4](#) |
+| 5 | 3 | Widget SizedBox, Spacer, dan Card | [Modul 5](#) | [Modul 5](#) |
+| 6 | 3 | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 6](#) | [Modul 6](#) |
+| 7 | 4 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 7](#) | [Modul 7](#) |
+| 8 | 4 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 8](#) | [Modul 8](#) |
+| 9 | 5 | Stateful Widget | [Modul 9](#) | [Modul 9](#) |
+| 10 | 6 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](#) | [Modul 10](#) |
+| 11 | 7 | Manajemen State dengan GetX | [Modul 11](#) | [Modul 11](#) |
+| 12 |  | UTS | [NikiPedia](https://github.com/dimasadtr/NikiPedia) | [Laporan UTS](https://drive.google.com/file/d/1IQ0ka7MfpLWtgV6wjgEMdb7AN4U9Bcnk/view?usp=sharing) |
 #
 
 # <h2 align="left">Languages and Tools :</h2>
