@@ -27,13 +27,13 @@ Kelas: A
 # Daftar Modul Praktikum
 | No | Praktikum ke | Topik Modul | Repository | Laporan |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | 1 | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 1](#) | [Modul 1](#) |
-| 2 | 1 | Widget Row dan Column | [Modul 2](#) | [Modul 2](#) |
-| 3 | 2 | Pengaturan Layout Row dan Column di Flutter | [Modul 3](#) | [Modul 3](#) |
-| 4 | 2 | Widget Flexible dan Expanded | [Modul 4](#) | [Modul 4](#) |
-| 5 | 3 | Widget SizedBox, Spacer, dan Card | [Modul 5](#) | [Modul 5](#) |
-| 6 | 3 | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 6](#) | [Modul 6](#) |
-| 7 | 4 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 7](#) | [Modul 7](#) |
+| 1 | 1 | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 1](https://github.com/dimasadtr/Pengujian_PrakMobile) | [Modul 1](https://drive.google.com/file/d/1-5rZtoVaGPJ3HcAzPmOmB5U3zwzontmq/view?usp=drive_link) |
+| 2 | 1 | Widget Row dan Column | [Modul 2](https://github.com/dimasadtr/Row_and_Column_PrakMobile) | [Modul 2](https://drive.google.com/file/d/1DSk1hXyHw7LaLwUUdsLy-OUQmYoggjAQ/view?usp=sharing) |
+| 3 | 2 | Pengaturan Layout Row dan Column di Flutter | [Modul 3]([https://github.com/dimasadtr/Widget-Flexible-dan-Expanded](https://github.com/dimasadtr/-Pengaturan-Layout-Row-dan-Column-di-Flutter)) | [Modul 3](https://drive.google.com/drive/folders/1KaeWF6xpcVZwUmQtcUSyBe9rsZkSqvoR?usp=drive_link) |
+| 4 | 2 | Widget Flexible dan Expanded | [Modul 4](https://github.com/dimasadtr/Widget-Flexible-dan-Expanded) | [Modul 4](https://drive.google.com/file/d/1JWYbiAA1vkvk6LghjX6bwy5IzIPffEjT/view?usp=drive_link) |
+| 5 | 3 | Widget SizedBox, Spacer, dan Card | [Modul 5](https://github.com/dimasadtr/Widget-SizedBox-Spacer-dan-Card) | [Modul 5](https://drive.google.com/file/d/1Y9wIYD0vwxcanTKRVhkR0J6uDvNBd8ZI/view?usp=sharing) |
+| 6 | 3 | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 6](https://github.com/dimasadtr/Widget-GridView-ListView-GridView.builder-dan-ListView.builder) | [Modul 6](https://drive.google.com/file/d/1wD4qcxKRD7CHECaZsxsWMZh9PnLUXAFC/view?usp=drive_link) |
+| 7 | 4 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 7](https://github.com/dimasadtr/Navigasi_antar_halaman) | [Modul 7](https://drive.google.com/file/d/1ovZxNCOT8uYzalr0i0uTiYAHuRbG2Ge_/view?usp=drive_link) |
 | 8 | 4 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 8](#) | [Modul 8](#) |
 | 9 | 5 | Stateful Widget | [Modul 9](#) | [Modul 9](#) |
 | 10 | 6 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](#) | [Modul 10](#) |
