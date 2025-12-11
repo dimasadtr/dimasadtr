@@ -41,6 +41,7 @@ Kelas: A
 | 11 | 8 | Akses Lokasi dengan GPS di Flutter| [Modul 12](https://github.com/dimasadtr/Flutter_GPS) | [Modul 12](#) |
 | 11 | 9 | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API| [Modul 13](https://github.com/dimasadtr/CRUD-RestAPI-Flutter) | [Modul 13](#) |
 | 12 |  | UTS | [NikiPedia](https://github.com/dimasadtr/NikiPedia) | [Laporan UTS](https://drive.google.com/file/d/1IQ0ka7MfpLWtgV6wjgEMdb7AN4U9Bcnk/view?usp=sharing) |
+| 13 |  | UAS | [NikiPedia](https://github.com/dimasadtr/NikiPedia) | [Laporan UAS](https://drive.google.com/file/d/1IQ0ka7MfpLWtgV6wjgEMdb7AN4U9Bcnk/view?usp=sharing) |
 #
 
 # <h2 align="left">Languages and Tools :</h2>
