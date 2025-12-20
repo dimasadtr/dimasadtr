@@ -34,14 +34,14 @@ Kelas: A
 | 5 | 3 | Widget SizedBox, Spacer, dan Card | [Modul 5](https://github.com/dimasadtr/Widget-SizedBox-Spacer-dan-Card) | [Modul 5](https://drive.google.com/file/d/1Y9wIYD0vwxcanTKRVhkR0J6uDvNBd8ZI/view?usp=sharing) |
 | 6 | 3 | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 6](https://github.com/dimasadtr/Widget-GridView-ListView-GridView.builder-dan-ListView.builder) | [Modul 6](https://drive.google.com/file/d/1wD4qcxKRD7CHECaZsxsWMZh9PnLUXAFC/view?usp=drive_link) |
 | 7 | 4 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 7](https://github.com/dimasadtr/Navigasi_antar_halaman) | [Modul 7](https://drive.google.com/file/d/1ovZxNCOT8uYzalr0i0uTiYAHuRbG2Ge_/view?usp=drive_link) |
-| 8 | 4 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 8](https://github.com/dimasadtr/modul8_navigasihalaman) | [Modul 8](#) |
-| 9 | 5 | Stateful Widget | [Modul 9](https://github.com/dimasadtr/Stateful-Widget) | [Modul 9](#) |
-| 10 | 6 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://github.com/dimasadtr/GUI-Navigasi-Integrasi_APIJSON) | [Modul 10](#) |
-| 11 | 7 | Manajemen State dengan GetX | [Modul 11](https://github.com/dimasadtr/Manajemen-State-dengan-GetX) | [Modul 11](#) |
+| 8 | 4 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 8](https://github.com/dimasadtr/modul8_navigasihalaman) | [Modul 8](https://drive.google.com/file/d/11SBCxrr3TdJ3gb7U6EwTZDiQ1n5UOjqm/view?usp=drive_link) |
+| 9 | 5 | Stateful Widget | [Modul 9](https://github.com/dimasadtr/Stateful-Widget) | [Modul 9](https://drive.google.com/file/d/1w7aQCXj7Su6gQzb2NnC8G-gMLzBDNpD_/view?usp=drive_link) |
+| 10 | 6 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://github.com/dimasadtr/GUI-Navigasi-Integrasi_APIJSON) | [Modul 10](https://drive.google.com/file/d/1Q-YluRl-UsdqHRTE7-BxA13Ct0M0SqWD/view?usp=drive_link) |
+| 11 | 7 | Manajemen State dengan GetX | [Modul 11](https://github.com/dimasadtr/Manajemen-State-dengan-GetX) | [Modul 11](https://drive.google.com/file/d/1RBH4SouQUkkpCeqFGnmC0ymj7MqXGp6r/view?usp=drive_link) |
 | 11 | 8 | Akses Lokasi dengan GPS di Flutter| [Modul 12](https://github.com/dimasadtr/Flutter_GPS) | [Modul 12](#) |
-| 11 | 9 | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API| [Modul 13](https://github.com/dimasadtr/CRUD-RestAPI-Flutter) | [Modul 13](#) |
+| 11 | 9 | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API| [Modul 13](https://github.com/dimasadtr/CRUD-RestAPI-Flutter) | [Modul 13](https://drive.google.com/file/d/1yl8-GIXRUirl80DTOeemsX2qhKNKafp2/view?usp=drive_link) |
 | 12 |  | UTS | [NikiPedia](https://github.com/dimasadtr/NikiPedia) | [Laporan UTS](https://drive.google.com/file/d/1IQ0ka7MfpLWtgV6wjgEMdb7AN4U9Bcnk/view?usp=sharing) |
-| 13 |  | UAS | [NikiPedia](https://github.com/dimasadtr/NikiPedia) | [Laporan UAS](https://drive.google.com/file/d/1IQ0ka7MfpLWtgV6wjgEMdb7AN4U9Bcnk/view?usp=sharing) |
+| 13 |  | UAS | [NikiPedia](https://github.com/dimasadtr/NikiPedia) | [Laporan UAS](https://drive.google.com/file/d/1NOkEocrLX4fCywZPcx4Y6_L3F0hWxYow/view?usp=sharing) |
 #
 
 # <h2 align="left">Languages and Tools :</h2>
